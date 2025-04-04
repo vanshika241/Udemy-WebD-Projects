@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+img{
+    height: 500px;
+    border:3px solid yellow;
+    margin-top: 20px ;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    text-transform:uppercase;
+}
+p{
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+}
